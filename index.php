@@ -36,8 +36,8 @@ $found = $finder->findByType($type);
         <div class="container">
             <div class="jumbotron">
              <h1><?php echo $title; ?></h1>
-            <p>Voici les films que j'aime et qui sont sortis récement au ciména. Ceci est la version déploiyée à partir de WebMatrix
-                en utilisant le protocole Web Deploy pour la deuxiéme fois, celui-là est modifier à partir de webmatrix;
+            <p>Voici les films que j'aime et qui sont sortis récement au ciména. Ceci est est une version qui a été déployée à partir de GitHub;
+               
               </p>
             </div>      
                   
