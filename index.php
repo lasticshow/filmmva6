@@ -36,8 +36,9 @@ $found = $finder->findByType($type);
         <div class="container">
             <div class="jumbotron">
              <h1><?php echo $title; ?></h1>
-            <p>Voici les films que j'aime et qui sont sortis récement au ciména. Trés bientôt dans le module suivant,
-            nous apprendrons à créer une page de détail qui vous permetera de visualiser des imformations sur un film  </p>
+            <p>Voici les films que j'aime et qui sont sortis récement au ciména. Ceci est la version déploiyée à partir de WebMatrix
+                en utilisant le protocole Web Deploy pour la deuxiéme fois, celui-là est modifier à partir de webmatrix;
+              </p>
             </div>      
                   
         <?php if(count($data) > 1): ?>
